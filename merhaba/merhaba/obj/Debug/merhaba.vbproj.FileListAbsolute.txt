@@ -1,0 +1,9 @@
+c:\users\bynmhnds\documents\visual studio 2013\Projects\merhaba\merhaba\bin\merhaba.dll.config
+c:\users\bynmhnds\documents\visual studio 2013\Projects\merhaba\merhaba\bin\merhaba.dll
+c:\users\bynmhnds\documents\visual studio 2013\Projects\merhaba\merhaba\bin\merhaba.pdb
+c:\users\bynmhnds\documents\visual studio 2013\Projects\merhaba\merhaba\bin\merhaba.xml
+c:\users\bynmhnds\documents\visual studio 2013\Projects\merhaba\merhaba\obj\Debug\merhaba.Resources.resources
+c:\users\bynmhnds\documents\visual studio 2013\Projects\merhaba\merhaba\obj\Debug\merhaba.vbproj.GenerateResource.Cache
+c:\users\bynmhnds\documents\visual studio 2013\Projects\merhaba\merhaba\obj\Debug\merhaba.dll
+c:\users\bynmhnds\documents\visual studio 2013\Projects\merhaba\merhaba\obj\Debug\merhaba.xml
+c:\users\bynmhnds\documents\visual studio 2013\Projects\merhaba\merhaba\obj\Debug\merhaba.pdb
