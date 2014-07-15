@@ -1,0 +1,9 @@
+c:\users\bynmhnds\documents\visual studio 2013\Projects\default\default\bin\default.dll.config
+c:\users\bynmhnds\documents\visual studio 2013\Projects\default\default\bin\default.dll
+c:\users\bynmhnds\documents\visual studio 2013\Projects\default\default\bin\default.pdb
+c:\users\bynmhnds\documents\visual studio 2013\Projects\default\default\bin\default.xml
+c:\users\bynmhnds\documents\visual studio 2013\Projects\default\default\obj\Debug\default.Resources.resources
+c:\users\bynmhnds\documents\visual studio 2013\Projects\default\default\obj\Debug\default.vbproj.GenerateResource.Cache
+c:\users\bynmhnds\documents\visual studio 2013\Projects\default\default\obj\Debug\default.dll
+c:\users\bynmhnds\documents\visual studio 2013\Projects\default\default\obj\Debug\default.xml
+c:\users\bynmhnds\documents\visual studio 2013\Projects\default\default\obj\Debug\default.pdb
