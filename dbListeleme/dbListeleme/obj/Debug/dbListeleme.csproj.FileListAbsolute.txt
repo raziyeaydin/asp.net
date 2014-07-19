@@ -1,0 +1,6 @@
+c:\users\bynmhnds\documents\visual studio 2013\Projects\dbListeleme\dbListeleme\obj\Debug\dbListeleme.csprojResolveAssemblyReference.cache
+c:\users\bynmhnds\documents\visual studio 2013\Projects\dbListeleme\dbListeleme\bin\dbListeleme.dll.config
+c:\users\bynmhnds\documents\visual studio 2013\Projects\dbListeleme\dbListeleme\bin\dbListeleme.dll
+c:\users\bynmhnds\documents\visual studio 2013\Projects\dbListeleme\dbListeleme\bin\dbListeleme.pdb
+c:\users\bynmhnds\documents\visual studio 2013\Projects\dbListeleme\dbListeleme\obj\Debug\dbListeleme.dll
+c:\users\bynmhnds\documents\visual studio 2013\Projects\dbListeleme\dbListeleme\obj\Debug\dbListeleme.pdb
