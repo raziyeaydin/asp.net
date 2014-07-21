@@ -1,0 +1,6 @@
+c:\users\onur\documents\visual studio 2013\Projects\bd_islemleri\bd_islemleri\obj\Debug\bd_islemleri.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2013\Projects\bd_islemleri\bd_islemleri\bin\bd_islemleri.dll.config
+c:\users\onur\documents\visual studio 2013\Projects\bd_islemleri\bd_islemleri\bin\bd_islemleri.dll
+c:\users\onur\documents\visual studio 2013\Projects\bd_islemleri\bd_islemleri\bin\bd_islemleri.pdb
+c:\users\onur\documents\visual studio 2013\Projects\bd_islemleri\bd_islemleri\obj\Debug\bd_islemleri.dll
+c:\users\onur\documents\visual studio 2013\Projects\bd_islemleri\bd_islemleri\obj\Debug\bd_islemleri.pdb
